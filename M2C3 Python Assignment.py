@@ -8,6 +8,7 @@ boolean = True
 # Exercise 2
 index = string[:3]
 
+
 # Exercise 3
 list_first = list[0]
 
