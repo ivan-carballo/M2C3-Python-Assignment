@@ -41,7 +41,8 @@ new_string = first_word + string[4:]
 
 
 # Exercise 8
-sentence = "Use string interpolation to print out a sentence that contains your number variable. " + str(number) # He usado una variable pero se puede hacer directamente en el print()
+# He usado una variable pero se puede hacer directamente en el print()
+sentence = "Use string interpolation to print out a sentence that contains your number variable. " + str(number) 
 print(sentence)
 
 
